@@ -95,6 +95,15 @@ Missing values are auto-handled. Label encoding is internally applied.
 ---
 
 **📷 Sample Screenshots** 
+![1](https://github.com/user-attachments/assets/9a475e09-7e59-400e-8ae8-afc829a7fa77)
+![2](https://github.com/user-attachments/assets/5b98df99-68f8-4824-b95e-efbe2035e5c9)
+![3](https://github.com/user-attachments/assets/399133c2-e0f2-4cdd-83ce-1fd145599020)
+![4](https://github.com/user-attachments/assets/c2fbba25-9c65-43a3-abfe-3fd464e882c7)
+![6](https://github.com/user-attachments/assets/2c0fc8c2-9062-4c09-ac8d-d5b7bc757a74)
+![7](https://github.com/user-attachments/assets/71b89e5d-6c5e-43c2-8925-bba2aad0d571)
+![8](https://github.com/user-attachments/assets/3f3236da-e429-4c1f-9dc7-11366dec01a3)
+![9](https://github.com/user-attachments/assets/ecbb525d-f592-41b6-ac91-f9bff1bee062)
+
 
 
 ---
